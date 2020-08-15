@@ -16,19 +16,19 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" style="width:400px" src="https://github-readme-stats.vercel.app/api?username=XXHolic&hide=contribs,prs?count_private=true&show_icons=true&theme=radical" />
+  <img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=XXHolic&hide=contribs,prs?count_private=true&show_icons=true&theme=radical" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" style="width:400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XXHolic&layout=compact&count_private=true&show_icons=true&theme=radical" />
+  <img align="left" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XXHolic&layout=compact&count_private=true&show_icons=true&theme=radical" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=XXHolic&layout=compact&repo=blog&count_private=true&show_icons=true&theme=radical" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=XXHolic&layout=compact&repo=blog&count_private=true&show_icons=true&theme=radical" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=XXHolic&layout=compact&repo=segment&count_private=true&show_icons=true&theme=radical" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=XXHolic&layout=compact&repo=segment&count_private=true&show_icons=true&theme=radical" />
 </a>
 
 <p align="center">
