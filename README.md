@@ -22,8 +22,3 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XXHolic&layout=compact&line_height=26&count_private=true&show_icons=true&theme=radical&hide=CoffeeScript" />
 </a>
-
-<p align="center">
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/XXHolic/count.svg" />
-</p>
